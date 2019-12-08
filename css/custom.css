@@ -5,3 +5,22 @@
 	background-color: #756b6b;
 	background-repeat: repeat-x;
 	background-size: cover; }
+.pad-header{
+	padding: 15px;
+}
+	.head-color{
+	
+	color: #007645;
+}
+.head-color:hover{
+	color: #756b6b;
+}
+.pad-left{
+	padding-left: 7em !important;
+}
+.nuevo{
+	font-size: 70px;;
+}
+.paddd{
+	padding: 40px, 0px !important;
+}
